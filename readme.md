@@ -1,4 +1,4 @@
-# DF-HCFN: Deep Fusion Hierarchical Collaborative Feature Network
+# DF-HCFN:  Hierarchical Brain Tumor Image Segmentation Model with Dual Feature Prompting for Incomplete Multimodalities 
 
 ## Project Overview
 
